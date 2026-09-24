@@ -130,7 +130,7 @@ const Home: React.FC = () => {
               transition={{ duration: 1, delay: 0.2, ease: [0.16, 1, 0.3, 1] }}
               className="text-6xl md:text-8xl lg:text-[7.5rem] font-black tracking-tighter leading-[1.05]"
             >
-              Refresh Naturally,
+              Taste the Moment,
               <br className="hidden md:block" />
               <span className="text-transparent bg-clip-text bg-gradient-to-t from-gray-400 via-white to-white">
                 {' '}Live
@@ -146,7 +146,7 @@ const Home: React.FC = () => {
               transition={{ duration: 1, delay: 0.4, ease: [0.16, 1, 0.3, 1] }}
               className="text-lg md:text-2xl text-gray-300 max-w-2xl mx-auto font-light leading-relaxed pt-8 pb-6"
             >
-              Discover drinks made with the finest natural ingredients—bringing you great taste and a healthier way to hydrate.
+              Discover our refreshing collection of beverages, crafted to deliver bold flavors, great taste, and an enjoyable experience in every sip.
             </motion.p>
 
             <motion.div
@@ -202,8 +202,8 @@ const Home: React.FC = () => {
             {[
               {
                 icon: Leaf,
-                title: "100% Natural",
-                description: "Made with premium natural ingredients, no artificial additives or preservatives."
+                title: "100% Refreshing Taste",
+                description: "Enjoy a refreshing beverage experience with great flavor in every sip."
               },
               {
                 icon: Award,

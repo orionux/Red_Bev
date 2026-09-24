@@ -13,7 +13,7 @@ export const products = [
     // category: "Energy Drinks",
     price: "$3.49",
     image: "../assets/products/MAX BOTTLES-02.png",
-    description: "Natural energy drink with green tea extract, B vitamins, and ginseng."
+    description: "A bold and refreshing drink with a smooth, satisfying taste."
   },
   {
     id: 3,
@@ -21,7 +21,7 @@ export const products = [
     // category: "Sparkling Water",
     price: "$2.99",
     image: "../assets/products/MAX BOTTLES-03.png",
-    description: "Refreshing sparkling water infused with natural citrus flavors."
+    description: "A lively blend of citrus flavor and refreshing sparkle."
   },
   {
     id: 4,

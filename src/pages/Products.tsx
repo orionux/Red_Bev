@@ -99,8 +99,7 @@ const Products: React.FC = () => {
             transition={{ duration: 0.8, delay: 0.2 }}
             className="text-xl text-gray-200 max-w-3xl mx-auto"
           >
-            Discover our complete collection of premium Beverages, each crafted with care
-            using the finest natural ingredients for exceptional taste and quality.
+            Explore our complete collection of refreshing beverages, bringing together distinctive flavors and an enjoyable taste experience for every occasion.
           </motion.p>
         </div>
       </section>
