@@ -2,12 +2,12 @@ import React from 'react';
 import { motion } from 'framer-motion';
 // import { products } from '../data/mockData';
 
-import product1 from "../assets/products/MAX BOTTLES-01.png"
-import product2 from "../assets/products/MAX BOTTLES-02.png"
+import product1 from "../assets/products/DSC05054.JPG"
+import product2 from "../assets/products/DSC05027.JPG"
 import product4 from "../assets/products/MAX BOTTLES-04.png"
-import product5 from "../assets/products/MAX BOTTLES-05.png"
-import product6 from "../assets/products/MAX BOTTLES-06.png"
-import product7 from "../assets/products/MAX BOTTLES-07.png"
+import product5 from "../assets/products/DSC05096.JPG"
+import product6 from "../assets/products/DSC05100.JPG"
+import product7 from "../assets/products/DSC05042.JPG"
 
 const products = [
   {
