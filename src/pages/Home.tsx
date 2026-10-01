@@ -5,12 +5,12 @@ import { ArrowRight, Leaf, Award, Users, Globe } from 'lucide-react';
 import { newsEvents } from '../data/mockData';
 import { NEWS_CATEGORIES } from '../helpers/enums';
 import heroBg from "../assets/group-bg.jpg"
-import product1 from "../assets/products/DSC05054.JPG"
-import product2 from "../assets/products/DSC05027.JPG"
+import product1 from "../assets/products/DSC05054.jpg"
+import product2 from "../assets/products/DSC05027.jpg"
 import product4 from "../assets/products/MAX BOTTLES-04.png"
-import product5 from "../assets/products/DSC05096.JPG"
-import product6 from "../assets/products/DSC05100.JPG"
-import product7 from "../assets/products/DSC05042.JPG"
+import product5 from "../assets/products/DSC05096.jpg"
+import product6 from "../assets/products/DSC05100.jpg"
+import product7 from "../assets/products/DSC05042.jpg"
 
 const products = [
   {
