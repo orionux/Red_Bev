@@ -14,6 +14,7 @@ import shamithShiran from "../assets/shamithShiran.jpeg"
 import samarakkodi from "../assets/T.P.Samanakkody.jpeg"
 
 // import chairman from "../assets/ruwan-thilina.jpeg"
+// "sample comment here for make vercel actticate "
 
 export const directors = [
   {
