@@ -231,8 +231,8 @@ const About: React.FC = () => {
               {
                 icon: Globe,
                 title: "",
-                stat: "Arpico family brand",
-                description: "Richard pieris distributors ltd"
+                stat: "Diverse Product Range",
+                description: "A variety of refreshing beverages crafted for different tastes and occasions"
               }
             ].map((achievement, index) => (
               <motion.div
