@@ -28,7 +28,7 @@ const products = [
     price: "$3.49",
     image: product2,
     description: "Zesty and refreshing, Red Orange explodes with citrus sunshine in every sip. A bold pick me up that’s anything but ordinary."
-  },
+  },/*
   {
     id: 4,
     name: "Red Cola",
@@ -36,7 +36,7 @@ const products = [
     price: "$5.99",
     image: product4,
     description: "Rich, bold, and unmistakably Red this cola hits with deep caramel notes and a crisp finish. A timeless taste with a modern edge."
-  },
+  },*/
   {
     id: 5,
     name: "Red Prite",

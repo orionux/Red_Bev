@@ -33,7 +33,7 @@ const products = [
     price: "$4.99",
     image: product1,
     description: "Velvety smooth with a nostalgic vanilla twist, Red Cream Soda delivers a creamy burst of indulgence. Perfect for those who like their fizz with flair."
-  },
+  },/*
    {
     id: 4,
     name: "Red Cola",
@@ -41,7 +41,7 @@ const products = [
     price: "$5.99",
     image: product4,
     description: "Rich, bold, and unmistakably Red this cola hits with deep caramel notes and a crisp finish. A timeless taste with a modern edge."
-  },
+  },*/
   {
     id: 5,
     name: "Red Ginger Beer",
